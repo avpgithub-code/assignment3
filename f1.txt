@@ -1,0 +1,5 @@
+#f1.txt
+
+
+sample line cod1
+sample line cod2
